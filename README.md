@@ -8,7 +8,7 @@ My analisys has been to identify following:
 - Hospitalization rate by age group and whether patient has previous medical condition or not
 - ICU rate by age group and whether patient has previous medical condition or not
 - Death rate by age group and whether patient has previous medical condition or not
-- Hospitalization rate by age group and whether patient has previous medical condition or not
+- Future case count considering past 6 months
 
 
 #### Hospitalization rate by age group and whether patient has previous medical condition or not
