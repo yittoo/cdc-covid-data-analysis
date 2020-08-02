@@ -30,7 +30,7 @@ Where y axis is case count and x axis is date in unix timestamp. Green is actual
 
 Where y axis is case count and x axis is date in unix timestamp. Green is actual data, red is predictions over test cases and blue is future predictions for next 4 months.
 
-Just take the future predictions with a doubt. The today's prediction (3.3M cases) is way off than the actual number (4.5M cases) as of writing this report (2020-08-02) so this is no way an actual credible prediction as there are way more factors at play.
+Just take the future predictions with a doubt. The data released by CDC is up until 15 days ago using that today's prediction (3.3M cases) is way off than the actual number (4.5M cases) as of writing this report (2020-08-02) so this is no way an actual credible prediction as there are way more factors at play.
 
 #### Requirements:
 1) Python 3.6 or above
